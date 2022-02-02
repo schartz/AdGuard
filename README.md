@@ -1,3 +1,10 @@
+# AdGuard (Working Title)
+*AdGuard* is a non root adblocking app. It is built from the fork of NetGuard.
+============================================================================================
+More information will follow soon.
+
+
+
 # NetGuard
 
 *NetGuard* provides simple and advanced ways to block access to the internet - no root required.
